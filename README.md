@@ -9,11 +9,11 @@ Sou um iniciante neste vasto mundo da programação, repleto de desafios a serem
 - **Frameworks**: Django (incluindo ORM)
 
 ## Projetos
-### [Calculadora I.M.C](git@github.com:Venturaa10/projeto_imc.git)
+### [Calculadora I.M.C](https://github.com/Venturaa10/projeto_imc)
 - **Descrição**: Uma simples calculadora de I.M.C.
 - **Ferramentas Utilizadas**: Python, Django, HTML, CSS
 
-### [Jogo da Forca](git@github.com:Venturaa10/jogo_da_forca.git)
+### [Jogo da Forca](https://github.com/Venturaa10/jogo_da_forca)
 - **Descrição**: Jogo da Forca com alguns times brasileiros.
 - **Ferramentas Utilizadas**: Python
 
