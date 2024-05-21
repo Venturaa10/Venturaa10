@@ -17,7 +17,7 @@ Sou um iniciante neste vasto mundo da programação, repleto de desafios a serem
 - **Descrição**: Jogo da Forca com alguns times brasileiros.
 - **Ferramentas Utilizadas**: Python
 
-### [Agenda de Contatos](git@github.com:Venturaa10/agenda_de_contatos.git)
+### [Agenda de Contatos](https://github.com/Venturaa10/agenda_de_contatos)
 - **Descrição**: Agenda de Contatos com algumas funcionalidades, como adicionar, visualizar, editar e excluir contatos.
 - **Ferramentas Utilizadas**: Python
 
