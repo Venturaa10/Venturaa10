@@ -1,7 +1,7 @@
 # Olá, Devs! Eu sou João Victor Ventura Oliveira 👋
 
 ## Sobre Mim
-Sou um iniciante neste vasto mundo da programação, repleto de desafios a serem superados. Meu primeiro passo foi cursar o Programador Full Stack Python no SENAC RJ, onde iniciei minha jornada enfrentando desafios, praticando e resolvendo pequenos problemas diários. Agora, com o curso concluído, estou me preparando para iniciar minha graduação em Análise e Desenvolvimento de Sistemas na UNISUAM, que terá início no segundo semestre de 2024.
+Sou um iniciante neste vasto mundo da programação, repleto de desafios a serem superados. Meu primeiro passo foi cursar Programação Em Python no SENAC RJ, onde iniciei minha jornada enfrentando desafios, praticando e resolvendo pequenos problemas diários. Agora, com o curso concluído, estou me preparando para iniciar minha graduação em Análise e Desenvolvimento de Sistemas na UNISUAM, que terá início no segundo semestre de 2024.
 
 ## Habilidades
 - **Linguagens**: Python
@@ -22,7 +22,7 @@ Sou um iniciante neste vasto mundo da programação, repleto de desafios a serem
 - **Ferramentas Utilizadas**: Python
 
 ## Conquistas
-- Certificado: Programador FullStack Python - SENAC RJ
+- Certificado: Programação Em Python - SENAC RJ
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/joão-victor-ventura-oliveira)
