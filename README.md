@@ -6,7 +6,7 @@ Sou um iniciante neste vasto mundo da programação, repleto de desafios a serem
 ## Habilidades
 - **Linguagens**: Python
 - **Desenvolvimento Web**: HTML, CSS
-- **Frameworks**: Django
+- **Frameworks**: Django, Django REST Framework
 
 ## Projetos
 ### [Calculadora I.M.C](https://github.com/Venturaa10/projeto_imc)
