@@ -26,5 +26,5 @@ Sou um iniciante neste vasto mundo da programação, repleto de desafios a serem
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/joão-victor-ventura-oliveira)
-- [Enviar e-mail](mailto:joao.victor.venturaa1@gmail.com)
+- [E-mail](mailto:joao.victor.venturaa1@gmail.com)
 
