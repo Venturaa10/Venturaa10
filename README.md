@@ -12,23 +12,22 @@ Sou um iniciante neste vasto mundo da programação, repleto de desafios a serem
 ### [Formulario](https://github.com/Venturaa10/formulario.git)
 - **Descrição**: Formulário desenvolvido utilizando Python e Django, permitindo a realização de operações CRUD (Create, Read, Update, Delete) diretamente na interface HTML.
 - **Ferramentas Utilizadas**: Python, Django
+- **Status**: 🚧 Em construção (**Projeto Atual**)
   
 ### [Agenda de Contatos](https://github.com/Venturaa10/agenda_de_contatos)
 - **Descrição**: Agenda de Contatos com algumas funcionalidades, como adicionar, visualizar, editar e excluir contatos.
 - **Ferramentas Utilizadas**: Python
+- **Status**: ✅ Finalizado
 
 ### [Calculadora I.M.C](https://github.com/Venturaa10/projeto_imc)
 - **Descrição**: Uma simples calculadora de I.M.C.
 - **Ferramentas Utilizadas**: Python, Django, HTML, CSS
-
-### [Jogo da Forca](https://github.com/Venturaa10/jogo_da_forca)
-- **Descrição**: Jogo da Forca com alguns times brasileiros.
-- **Ferramentas Utilizadas**: Python
+- **Status**: ✅ Finalizado
 
 ## Conquistas
 - Certificado: Programação Em Python - SENAC RJ
 
-## Contato
+## Contato 
 - [LinkedIn](https://www.linkedin.com/in/joão-victor-ventura-oliveira)
 - [E-mail](mailto:joao.victor.venturaa1@gmail.com)
 
