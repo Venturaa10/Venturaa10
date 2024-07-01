@@ -9,7 +9,10 @@ Sou um iniciante neste vasto mundo da programação, repleto de desafios a serem
 - **Frameworks**: Django, Django REST Framework
 
 ## Projetos
-
+### [Formulario](https://github.com/Venturaa10/agenda_de_contatos)
+- **Descrição**: Formulário desenvolvido utilizando Python e Django, permitindo a realização de operações CRUD (Create, Read, Update, Delete) diretamente na interface HTML.
+- **Ferramentas Utilizadas**: Python, Django
+  
 ### [Agenda de Contatos](https://github.com/Venturaa10/agenda_de_contatos)
 - **Descrição**: Agenda de Contatos com algumas funcionalidades, como adicionar, visualizar, editar e excluir contatos.
 - **Ferramentas Utilizadas**: Python
