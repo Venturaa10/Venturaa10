@@ -7,7 +7,8 @@ Sou um iniciante neste vasto mundo da programação, repleto de desafios a serem
 - **Linguagens**: Python
 - **Desenvolvimento Web**: HTML, CSS
 - **Frameworks**: Django, Django REST Framework
-
+- **Banco de Dados**: MySQL, SQL
+  
 ## Projetos
 ### [Formulario](https://github.com/Venturaa10/formulario.git)
 - **Descrição**: Formulário desenvolvido utilizando Python e Django, permitindo a realização de operações CRUD (Create, Read, Update, Delete) diretamente na interface HTML.
