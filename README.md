@@ -27,6 +27,7 @@ Sou um iniciante neste vasto mundo da programação, repleto de desafios a serem
 
 ## Conquistas
 - Certificado: Programação Em Python - SENAC RJ
+- Certificado: ESSENTIALS 2 - Fisk Inglês
 
 ## Contato 
 - [LinkedIn](https://www.linkedin.com/in/joão-victor-ventura-oliveira)
