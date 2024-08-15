@@ -1,7 +1,9 @@
 # Olá, Devs! Eu sou João Victor Ventura Oliveira 👋
 
 ## Sobre Mim
-Sou um iniciante neste vasto mundo da programação, repleto de desafios a serem superados. Meu primeiro passo foi cursar Programação Em Python no SENAC RJ, onde iniciei minha jornada enfrentando desafios, praticando e resolvendo pequenos problemas diários. Agora, com o curso concluído, estou me preparando para iniciar minha graduação em Análise e Desenvolvimento de Sistemas na UNISUAM, que terá início no segundo semestre de 2024.
+Sou um iniciante no mundo da programação, com foco em Python e Django. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISUAM. Tenho me dedicado ao desenvolvimento de habilidades de back-end por meio de pequenos projetos funcionais e prática constante através de exercícios.
+
+Atualmente, estou em busca de uma oportunidade na área da tecnologia, onde possa aplicar e expandir meus conhecimentos, contribuindo de forma significativa para projetos e equipes.
 
 ## Habilidades
 - **Linguagens**: Python
