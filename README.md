@@ -6,7 +6,7 @@ Sou um iniciante no mundo da programação, com foco em Python e Django. Atualme
 Atualmente, estou em busca de uma oportunidade na área da tecnologia, onde possa aplicar e expandir meus conhecimentos.
 
 ## Habilidades
-- **Linguagens**: Python
+- **Linguagens**: Python, JavaScript
 - **Desenvolvimento Web**: HTML, CSS
 - **Frameworks**: Django, Django REST Framework
 - **Banco de Dados**: MySQL, SQL
