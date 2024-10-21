@@ -34,6 +34,11 @@ Atualmente, estou em busca de uma oportunidade na área da tecnologia, onde poss
     <img width="450em" height="188em" src="https://github-readme-stats.vercel.app/api?username=Venturaa10&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
     <img width="450em" height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venturaa10&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
   <br> 
+<picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venturaa10/Venturaa10/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venturaa10/Venturaa10/output/github-contribution-grid-snake-dark.svg">
+      <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Venturaa10/Venturaa10/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 
