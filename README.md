@@ -31,8 +31,8 @@ Atualmente, estou em busca de uma oportunidade na área da tecnologia, onde poss
 
   <h2 align="center">📊 STATUS</h2>
 <div align="center" style="display: inline_block">
-    <img width="450em" height="188em" src="https://github-readme-stats.vercel.app/api?username=Venturaa10&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-    <img width="450em" height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venturaa10&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Venturaa10&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+    <img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venturaa10&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
   <br> 
 <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venturaa10/Venturaa10/output/github-contribution-grid-snake-dark.svg">
