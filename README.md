@@ -4,7 +4,7 @@ Sou um iniciante no mundo da programação, com foco em Python e Django. Atualme
 Atualmente, estou em busca de uma oportunidade na área da tecnologia, onde possa aplicar e expandir meus conhecimentos.
 
 <h2 align="center">👥 CONTATO</h2>
-<div align="center" style="display: inline_block"><br> 
+<div align="center" style="display: inline_block"> 
     <a href = "mailto:joao.victor.venturaa1@gmail.com">
     <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ventura-oliveira/"  target="_blank">
@@ -29,12 +29,11 @@ Atualmente, estou em busca de uma oportunidade na área da tecnologia, onde poss
   <img align="center" alt="joao-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
 </div><br> 
 
-  <h2 align="center">📊 Status</h2>
+  <h2 align="center">📊 STATUS</h2>
 <div align="center" style="display: inline_block">
-    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Venturaa10&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-    <img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venturaa10&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+    <img width="450em" height="188em" src="https://github-readme-stats.vercel.app/api?username=Venturaa10&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+    <img width="450em" height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venturaa10&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
   <br> 
-    <img src="https://raw.githubusercontent.com/Venturaa10/Venturaa10/output/snake.svg" alt="Snake animation" />
 </div>
 
 
