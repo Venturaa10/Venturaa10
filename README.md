@@ -6,9 +6,9 @@ Atualmente, estou em busca de uma oportunidade na área da tecnologia, onde poss
 <h2 align="center">👥 CONTATO</h2>
 <div align="center" style="display: inline_block"> 
     <a href = "mailto:joao.victor.venturaa1@gmail.com">
-    <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ventura-oliveira/"  target="_blank">
-    <img height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
 <h2 align="center">💻 PRINCIPAIS TECNOLOGIAS</h2>
@@ -33,8 +33,8 @@ Atualmente, estou em busca de uma oportunidade na área da tecnologia, onde poss
 
 <div align="center">
 <h2>📊 STATUS</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=Venturaa10&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Venturaa10&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+      <img src="https://github-readme-stats.vercel.app/api?username=Venturaa10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Venturaa10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venturaa10/Venturaa10/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venturaa10/Venturaa10/output/github-contribution-grid-snake-dark.svg">
