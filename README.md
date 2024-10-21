@@ -29,10 +29,15 @@ Atualmente, estou em busca de uma oportunidade na área da tecnologia, onde poss
   <img align="center" alt="joao-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
 </div><br> 
 
-  <h2 align="center">📊 STATUS</h2>
-<div align="center" style="display: inline_block">
-    <img height="188em"  src="https://github-readme-stats.vercel.app/api?username=Venturaa10&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-    <img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venturaa10&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+<h2>📊 STATUS</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=Venturaa10&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=pt-br&hide_border=false&order=1" height="160" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Venturaa10&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=rose_pine&hide_border=false&order=2" height="160" alt="languages graph" />
 <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venturaa10/Venturaa10/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venturaa10/Venturaa10/output/github-contribution-grid-snake-dark.svg">
