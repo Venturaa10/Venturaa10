@@ -18,6 +18,8 @@ Atualmente, estou em busca de uma oportunidade na área da tecnologia, onde poss
   <img width="8"/>
   <img align="center" alt="joao-Django" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/django.svg"/> 
   <img width="8"/>
+  <img align="center" alt="joao-Django-Rest-Framework" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"/>
+  <img width="8"/>
   <img align="center" alt="joao-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img width="8"/>
   <img align="center" alt="joao-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
