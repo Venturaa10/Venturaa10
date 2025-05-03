@@ -1,7 +1,6 @@
 <h1 align="center">Olá, Devs! Eu sou João Victor Ventura Oliveira 👋</h1>
 
-Sou um iniciante no mundo da programação, com foco em Python e Django. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISUAM. Tenho me dedicado ao desenvolvimento de habilidades de back-end por meio de pequenos projetos funcionais e prática constante através de exercícios.
-Atualmente, estou em busca de uma oportunidade na área da tecnologia, onde possa aplicar e expandir meus conhecimentos.
+Desenvolvedor web em constante aprendizado. No trabalho, atuo com Laravel, Angular e PostgreSQL. Em projetos pessoais, foco em Python e Django, com ênfase no desenvolvimento de APIs RESTful, autenticação com JWT e boas práticas de projeto. Estudo Análise e Desenvolvimento de Sistemas na UNISUAM e estou sempre buscando evoluir e aprender mais na área tech.
 
 <h2 align="center">👥 CONTATO</h2>
 <div align="center" style="display: inline_block"> 
