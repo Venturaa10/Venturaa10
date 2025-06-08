@@ -35,7 +35,7 @@ Desenvolvedor web em constante aprendizado. No trabalho, atuo com Laravel, Angul
 <div align="center">
 <h2>📊 STATUS</h2>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Venturaa10&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Venturaa10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=rose_pine&hide_border=false&order=2"  alt="languages graph"  />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Venturaa10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false&order=2"  alt="languages graph"  />
 <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venturaa10/Venturaa10/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venturaa10/Venturaa10/output/github-contribution-grid-snake-dark.svg">
