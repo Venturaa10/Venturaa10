@@ -2,6 +2,11 @@
 
 Desenvolvedor web em constante aprendizado. No trabalho, atuo com Laravel, Angular e PostgreSQL. Em projetos pessoais, foco em Python e Django, com ênfase no desenvolvimento de APIs RESTful, autenticação com JWT e boas práticas de projeto. Estudo Análise e Desenvolvimento de Sistemas na UNISUAM e estou sempre buscando evoluir e aprender mais na área tech.
 
+<p align="center">
+  🚀 <strong>Confira meu portfólio:</strong>  
+  <a href="https://joaoventuradev.vercel.app" target="_blank"><strong>joaoventuradev.vercel.app</strong></a>
+</p>
+
 <h2 align="center">👥 CONTATO</h2>
 <div align="center" style="display: inline_block"> 
     <a href = "mailto:joao.victor.venturaa1@gmail.com">
