@@ -1,6 +1,6 @@
 <h1 align="center">Olá, Devs! Eu sou João Victor Ventura Oliveira 👋</h1>
 
-Desenvolvedor web em constante aprendizado. No trabalho, atuo com Laravel, Angular e PostgreSQL. Em projetos pessoais, foco em Python e Django, com ênfase no desenvolvimento de APIs RESTful, autenticação com JWT e boas práticas de projeto. Estudo Análise e Desenvolvimento de Sistemas na UNISUAM e estou sempre buscando evoluir e aprender mais na área tech.
+Desenvolvedor web em constante aprendizado. No trabalho, atuo com Laravel, Angular e PostgreSQL. Em projetos pessoais, foco em Python e Django, com ênfase no desenvolvimento de APIs RESTful e boas práticas de projeto. Estudo Análise e Desenvolvimento de Sistemas na UNISUAM e estou sempre buscando evoluir e aprender mais na área tech.
 
 <p align="center">
   🚀 <strong>Confira meu portfólio:</strong>  
