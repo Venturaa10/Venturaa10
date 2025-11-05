@@ -16,26 +16,57 @@ Desenvolvedor web em constante aprendizado. No trabalho, atuo com Laravel, Angul
  </div>
 
 <h2 align="center">💻 PRINCIPAIS TECNOLOGIAS</h2>
-<div align="center" style="display: inline_block">
-  <img width="8"/>  
-  <img align="center" alt="joao-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img width="8"/>
-  <img align="center" alt="joao-Django" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/django.svg"/> 
-  <img width="8"/>
-  <img align="center" alt="joao-Django-Rest-Framework" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"/>
-  <img width="8"/>
-  <img align="center" alt="joao-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img width="8"/>
-  <img align="center" alt="joao-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img width="8"/>
-  <img align="center" alt="joao-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img width="8"/>
-  <img align="center" alt="joao-Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img width="8"/>
-  <img align="center" alt="joao-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
-</div><br> 
+<div align="center" style="display: inline_block"><br>
 
+  <!-- Python -->
+  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img width="10"/>
 
+  <!-- Django -->
+  <img align="center" alt="Django" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img width="10"/>
+
+  <!-- Django REST Framework -->
+  <img align="center" alt="DRF" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg">
+  <img width="10"/>
+
+  <!-- Angular -->
+  <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
+  <img width="10"/>
+
+  <!-- Laravel -->
+  <img align="center" alt="Laravel" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
+  <img width="10"/>
+
+  <!-- PHP -->
+  <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img width="10"/>
+
+  <!-- Tailwind CSS (link alternativo estável) -->
+  <img align="center" alt="TailwindCSS" height="50" width="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+  <img width="10"/>
+
+  <!-- HTML -->
+  <img align="center" alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img width="10"/>
+
+  <!-- CSS -->
+  <img align="center" alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img width="10"/>
+
+  <!-- Bootstrap -->
+  <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img width="10"/>
+
+  <!-- MySQL -->
+  <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img width="10"/>
+
+  <!-- PostgreSQL -->
+  <img align="center" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img width="10"/>
+
+</div>
 
 <!-- <div align="center">
 <h2>📊 STATUS</h2>
