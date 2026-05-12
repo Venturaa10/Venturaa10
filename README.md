@@ -45,6 +45,9 @@ Desenvolvedor web em constante aprendizado. No trabalho, atuo com Laravel, Angul
   <!-- Tailwind CSS (link alternativo estável) -->
   <img align="center" alt="TailwindCSS" height="50" width="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
   <img width="10"/>
+  
+  <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img width="10"/>
 
   <!-- HTML -->
   <img align="center" alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
